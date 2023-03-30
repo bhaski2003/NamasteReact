@@ -1,0 +1,27 @@
+PARCEL:
+ - Gives Dev Build
+ - LOcal Sever
+ - HMR = Hot MOdule Rpeclment
+ - uses File wtching ALgo
+ - caching - for faster Builds
+ - Image Optimization 
+ - Minifys our files by - BUNDLING - it s basically a bundler
+ - Does Compressing
+ - does consistnt Hashing
+ - Differential Bundling  -  so tht app runs on all types of and all older versions of brwser i.e, it makes sure tht appp is good working on all possible devices
+- Does tree shaking => removes unused codes for us
+
+"PARCEL IS SUCH A BEAST"
+
+how parcel is fast - it has caching
+
+
+_________________________________________________________
+
+use : npx parcel build class.html
+
+
+
+______________________________________________________________________________________________________________________
+
+ "OUR APP IS FAST NOT BCZ OF REACT ALSO BCZ OF MODULES WITHIN"
